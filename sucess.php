@@ -1,2 +1,0 @@
-
-you have registerd sucessfully.
