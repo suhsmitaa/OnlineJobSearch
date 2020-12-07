@@ -1,1 +1,2 @@
 # OnlineJobSearch
+It was a minor project and my first project from where I entered in coding during the 5th semester of engineering. This website helps the employer as well as the employee in posting as well as finding a job. This is done in PHP, and the database used for this project is MySQL.While pulling, please drag the project1 folder and run index.html, as I haven't deleted the unused files.
